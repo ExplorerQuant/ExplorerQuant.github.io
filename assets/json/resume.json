@@ -107,29 +107,6 @@
       "summary": "Received honorary mention in AIITRA Challenge"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
   "skills": [
     {
       "name": "Programming Languages",
@@ -161,6 +138,21 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    }
+  ],
+  "publications": [
+    {
+      "name": "IITK at SemEval-2024 Task 4: Hierarchical Embeddings for Detection of Persuasion Techniques in Memes",
+      "publisher": "Proceedings of the 18th International Workshop on Semantic Evaluation, SemEval@NAACL 2024",
+      "releaseDate": "2024-06-20",
+      "url": "https://doi.org/10.18653/v1/2024.semeval-1.252",
+      "summary": "Developed hierarchical embeddings for detecting persuasion techniques in memes, achieving F1-scores of 0.60 and 0.67 on subtasks 1 and 2 respectively, ranked 19/80 teams globally."
+    },
+    {
+      "name": "Towards Autonomous Shooting Rover via Situation Aware Visual-Perception and Dynamic Action Execution",
+      "publisher": "2024 IEEE/SICE International Symposium on System Integration (SII)",
+      "releaseDate": "2024-01-01",
+      "summary": "Developed an autonomous shooting rover with situation-aware visual perception and dynamic action execution capabilities, integrating computer vision and robotics for autonomous target acquisition and engagement."
     }
   ],
   "projects": [
