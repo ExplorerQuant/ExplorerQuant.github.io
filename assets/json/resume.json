@@ -144,26 +144,12 @@
     {
       "name": "Quantitative Finance",
       "level": "Intermediate",
-      "keywords": [
-        "Options Pricing",
-        "Strategy Backtesting",
-        "Volatility Modeling",
-        "ARIMA Modeling",
-        "Treasury Analysis",
-        "FX Derivatives"
-      ]
+      "keywords": ["Options Pricing", "Strategy Backtesting", "Volatility Modeling", "ARIMA Modeling", "Treasury Analysis", "FX Derivatives"]
     },
     {
       "name": "Machine Learning & NLP",
       "level": "Intermediate",
-      "keywords": [
-        "Random Forests",
-        "Hierarchical Clustering",
-        "BERT",
-        "NLP",
-        "Ensemble Methods",
-        "Signal Enhancement"
-      ]
+      "keywords": ["Random Forests", "Hierarchical Clustering", "BERT", "NLP", "Ensemble Methods", "Signal Enhancement"]
     },
     {
       "name": "Tools & Platforms",
